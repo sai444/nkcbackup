@@ -1,0 +1,25 @@
+{
+    "influxDBDetails": {
+        "influxDBName":"test",
+        "influxHost":"localhost",
+        "influxPort":8086,
+        "indluxId":"root",
+        "influxPassword":"root"
+    },
+    "mySqlDBDetails":{
+        "mySqlDBName":"nkc",
+        "mySqlHost":"localhost",
+        "mySqlPort":8033,
+        "mySqlId":"root",
+        "mySqlPassword":"root"
+
+    },
+    "pgSqlDBConnection":{
+        "mySqlDBName":"nkc",
+        "mySqlHost":"localhost",
+        "mySqlPort":8033,
+        "mySqlId":"postgres",
+        "mySqlPassword":"postgres"
+
+    }
+}
